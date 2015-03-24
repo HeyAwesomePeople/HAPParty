@@ -1,0 +1,10 @@
+name: HAPParty
+main: me.HeyAwesomePeople.party.Party
+version: 1.0
+commands:
+  party:
+    description: Party Commmand
+  partychat:
+    description: Party Command
+  pc:
+    description: Party Command
